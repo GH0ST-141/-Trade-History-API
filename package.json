@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/GH0ST-141/-Trade-History-API#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
